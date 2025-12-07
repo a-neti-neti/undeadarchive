@@ -15,7 +15,7 @@ All powered by a local **Streamlit** app and a bundled SQLite database.
 ---
 
 ## 🖼 Screenshot
-![Image](https://github.com/user-attachments/assets/5004dab4-318b-4f23-8d19-b5aeab3ced74)
+![Image](https://github.com/user-attachments/assets/f4bb3812-2ae7-4785-8d28-2b2ec5a52773)
 
 ---
 
