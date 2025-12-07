@@ -1,7 +1,7 @@
 # 🦇 UNDEAD ARCHIVE — Gothic Reviews Companion
 
 Personal offline companion app for the legendary gothic.ru / old.gothic.ru reviews archive  
-(1997–2022, 1930 albums).
+(1997–2022 yrs, 1930 albums).
 
 This project turns a static review dump into a small living tool:
 
