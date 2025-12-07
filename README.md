@@ -81,7 +81,7 @@ Stop the app with **CTRL+C**.
 ## 🧛‍♀️ Rights, origin & acknowledgements
 
 All reviews belong to **their original authors**  
-and originate from **gothic.ru / old.gothic.ru** (1997–2022).
+and originate from **[old.gothic.ru](http://old.gothic.ru) and [gothic.ru](https://gothic.ru)** (1997–2022).
 
 This project is **not affiliated** with the site or its owners.  
 It is a personal archival and study tool.
